@@ -64,7 +64,7 @@ Use Composer to install Vuexy Jetstrap into your new Laravel project as dev depe
 
 ```
 
-composer require composer require alok-vishu/jetstrap-vuexy-bs-4-bs-4 --dev
+composer require pixinvent/jetstrap-vuexy-bs-4 --dev
  
 
 ```
